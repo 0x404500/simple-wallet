@@ -43,8 +43,8 @@ const theme = extendTheme({
     error: '#FF7070',
     success: '#92C988',
     // general
-    background: General.black,
-    text: General.white,
+    background: General.white,
+    text: General.black,
   },
 });
 
